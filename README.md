@@ -1,3 +1,7 @@
 - Eggs
 - Bacon
 - Milk
+- Cereal
+- Granola
+- Fish
+- Rice
